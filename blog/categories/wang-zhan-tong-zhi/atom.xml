@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 网站通知 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 网站通知 | Yaakov Azat]]></title>
   <link href="http://yaakovazat.github.io/blog/categories/wang-zhan-tong-zhi/atom.xml" rel="self"/>
   <link href="http://yaakovazat.github.io/"/>
-  <updated>2018-01-18T22:28:41+06:00</updated>
+  <updated>2018-01-18T22:44:45+06:00</updated>
   <id>http://yaakovazat.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yaakov Azat]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
